@@ -28,3 +28,4 @@
 
 5. **Conclusion**:
  Strengthen your conclusion by tying it back to potential market trends or future outlooks based on the analysis.
+![image](https://github.com/user-attachments/assets/3f5bf7f4-09e3-41ee-99a4-1a67e04cdc82)
