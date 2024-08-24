@@ -28,4 +28,17 @@
 
 5. **Conclusion**:
  Strengthen your conclusion by tying it back to potential market trends or future outlooks based on the analysis.
+
 ![image](https://github.com/user-attachments/assets/3f5bf7f4-09e3-41ee-99a4-1a67e04cdc82)
+![image](https://github.com/user-attachments/assets/df2d1b08-2e68-4e26-867c-503a0c785bd0)
+![image](https://github.com/user-attachments/assets/4405403a-dfcf-4f1f-98c5-8daedc58b1a5)
+![image](https://github.com/user-attachments/assets/acc3cd50-8afb-460b-abab-3c739b848ed3)
+![image](https://github.com/user-attachments/assets/e20c6558-e6da-4cbf-8020-41dc7973b0af)
+![image](https://github.com/user-attachments/assets/4b9ca32c-cd97-45aa-8561-9adefac3d81d)
+![image](https://github.com/user-attachments/assets/33d03384-5b5e-4c31-a54f-60b1ec32f460)
+![image](https://github.com/user-attachments/assets/a1d8efdc-80a2-4721-b42d-c99b5c36b69f)
+
+
+
+
+
