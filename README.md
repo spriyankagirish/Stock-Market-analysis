@@ -2,9 +2,9 @@
 
 
 ### Project Overview
-- **Domain:** Stock Market Analysis
-- **Objective:** Analyze the stock performance of Nifty 500 companies using data from Groww, focusing on percentage changes in stock prices and trading values.
-- **Process:**
+**Domain:** Stock Market Analysis
+**Objective:** Analyze the stock performance of Nifty 500 companies using data from Groww, focusing on percentage changes in stock prices and trading values.
+**Process:**
   - Web scraping from Groww.
   - Data cleaning and formatting.
   - Exploratory Data Analysis (EDA) including univariate and bivariate analysis.
@@ -26,5 +26,5 @@
 4. **Investment Insights:**
    - Add a section on how the findings can influence different types of investors (e.g., risk-averse vs. risk-tolerant).
 
-5. Conclusion:
+5. **Conclusion**:
  Strengthen your conclusion by tying it back to potential market trends or future outlooks based on the analysis.
